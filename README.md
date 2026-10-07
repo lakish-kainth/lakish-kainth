@@ -85,7 +85,7 @@ Blog, resource, and gated content programs designed to attract organic traffic a
 
 ### Content Strategy
 Content frameworks aligned to buyer stages, search intent, and sales needs. Includes editorial planning and performance review.
-[View project](https://github.com/lakish-kainth/content-strategy)
+[View project](https://github.com/lakish-kainth/Content-Marketing.git)
 
 ---
 
