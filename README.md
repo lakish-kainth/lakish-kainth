@@ -15,45 +15,7 @@ I work across the full funnel, from organic visibility and paid acquisition to l
 
 ---
 
-## Core Skills
-
-**Demand Generation and Growth**
-- B2B Marketing
-- Growth Marketing
-- Demand Generation
-- Lead Generation
-- Product Marketing
-
-**Search and Discoverability**
-- Search Engine Optimization (SEO)
-- AEO / GEO
-- Search Engine Marketing (SEM)
-- Content Strategy / Distribution
-- PR & Knowledge Nodes
-
-**Content and Channel Marketing**
-- Content Marketing
-- Email Marketing
-- Social Media Marketing
-- WhatsApp Marketing
-- Video / Podcast Marketing
-- Event Marketing
-
-**Paid and Partner Channels**
-- Paid Media
-- Influencer Marketing
-- Affiliate Marketing
-- WhatsApp Marketing
-
-**Automation, AI and Analytics**
-- Marketing Automation
-- Marketing Analytics
-- AI Marketing
-- Digital Marketing
-
----
-
-## Marketing Activities
+## Marketing Activities / Core Skills
 
 | | | |
 |---|---|---|
