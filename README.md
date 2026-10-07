@@ -61,7 +61,7 @@ Project write-ups and supporting documentation are being added. Links below are 
 
 ### B2B Demand Generation
 Multi-channel demand programs built to attract, qualify, and convert B2B SaaS buyers. Covers channel mix, targeting, and funnel reporting.
-[View project](https://github.com/lakish-kainth/b2b-demand-generation)
+[View project](https://github.com/lakish-kainth/B2B-Lead-Generation-Engine)
 
 ### SEO & AEO Strategy
 Search strategy covering technical SEO, topical content, and optimization for AI-generated answers. Includes keyword research and visibility tracking.
