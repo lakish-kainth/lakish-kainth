@@ -81,7 +81,7 @@ Workflows connecting forms, CRM, enrichment, and email to speed up lead handling
 
 ### Content Marketing
 Blog, resource, and gated content programs designed to attract organic traffic and support lead generation. Tracks content performance from first visit to qualified lead.
-[View project](https://github.com/lakish-kainth/content-marketing)
+[View project](https://github.com/lakish-kainth/Content-Marketing)
 
 ### Content Strategy
 Content frameworks aligned to buyer stages, search intent, and sales needs. Includes editorial planning and performance review.
