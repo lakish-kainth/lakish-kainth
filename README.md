@@ -1,4 +1,3 @@
-## Hi there 👋
 # Lakish Kainth
 
 **Senior Marketing Specialist | B2B SaaS | Demand Gen, SEO/AEO, Paid Media**
