@@ -1,6 +1,6 @@
 # Lakish Kainth
 
-**Senior Marketing Specialist | B2B SaaS | Demand Gen, SEO/AEO, Paid Media**
+**Portfolio Project | Senior Marketing Specialist | B2B SaaS | Demand Gen, SEO/AEO, Paid Media | 4.5+ Years B2B Marketing Experience**
 
 **Gurugram, Haryana, India**
 
@@ -60,32 +60,25 @@ I work across the full funnel, from organic visibility and paid acquisition to l
 Project write-ups and supporting documentation are being added. Links below are placeholders.
 
 ### B2B Demand Generation
-Multi-channel demand programs built to attract, qualify, and convert B2B SaaS buyers. Covers channel mix, targeting, and funnel reporting.
+A structured B2B demand generation system connecting ICP research, account and prospect intelligence, targeted outreach, lead qualification, campaign analytics, and pipeline measurement.
 [View project](https://github.com/lakish-kainth/B2B-Lead-Generation-Engine)
 
 ### SEO & AEO Strategy
-Search strategy covering technical SEO, topical content, and optimization for AI-generated answers. Includes keyword research and visibility tracking.
-[View project](https://github.com/lakish-kainth/seo-aeo-strategy)
+An organic growth framework combining technical SEO, keyword and intent research, topical authority, content optimization, and AI search visibility to strengthen discoverability across search and answer engines.
+[View project](https://github.com/lakish-kainth/-aeo-workflow-engine/releases/tag/v0.1.0)
 
-### Email Marketing
-Lead nurture, onboarding, and re-engagement sequences for B2B audiences. Focused on segmentation, timing, and measurable engagement.
-[View project](https://github.com/lakish-kainth/email-marketing)
+### Content Marketing
+A performance focused content program covering blogs, resources, and conversion-focused content designed to build organic visibility, attract qualified audiences, and support demand generation across the buyer journey.
+
+### Content Strategy
+A structured content architecture mapping pillar topics, supporting content, keywords, search intent, entities, internal links, and buyer stages to build topical authority and create stronger pathways from organic discovery to lead generation.
+[View project](https://github.com/lakish-kainth/Content-Marketing)
 
 ### WhatsApp Marketing
 Opt-in WhatsApp flows for lead follow-up, event reminders, and customer re-engagement. Built around consent, timing, and clear handoff to sales.
-[View project](https://github.com/lakish-kainth/whatsapp-marketing)
 
 ### Marketing Automation
 Workflows connecting forms, CRM, enrichment, and email to speed up lead handling. Built to reduce manual work and improve follow-up consistency.
-[View project](https://github.com/lakish-kainth/marketing-automation)
-
-### Content Marketing
-Blog, resource, and gated content programs designed to attract organic traffic and support lead generation. Tracks content performance from first visit to qualified lead.
-[View project](https://github.com/lakish-kainth/Content-Marketing)
-
-### Content Strategy
-Content frameworks aligned to buyer stages, search intent, and sales needs. Includes editorial planning and performance review.
-[View project](https://github.com/lakish-kainth/Content-Marketing.git)
 
 ---
 
