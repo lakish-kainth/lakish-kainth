@@ -19,11 +19,11 @@ I work across the full funnel, from organic visibility and paid acquisition to l
 
 | | | |
 |---|---|---|
-| Digital Marketing | Content Marketing | Email Marketing |
-| Search Engine Optimization (SEO) | Search Engine Marketing (SEM) | Paid Media |
-| Social Media Marketing | Influencer Marketing | Affiliate Marketing |
-| Video / Podcast Marketing | Event Marketing | Mobile Marketing |
-| WhatsApp Marketing | AEO (GEO) | AI Marketing | | |
+| Digital Marketing | Content Marketing | Email Marketing 
+| Search Engine Optimization (SEO) | Search Engine Marketing (SEM) | Paid Media 
+| Social Media Marketing | Influencer Marketing | Affiliate Marketing 
+| Video / Podcast Marketing | Event Marketing | Mobile Marketing 
+| WhatsApp Marketing | AEO (GEO) | AI Marketing
 
 ---
 
